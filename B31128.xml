@@ -1,0 +1,344 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the severall passages which have happened to our army since it advanced towards Glocester with the manner of the reliefe of the same related in a letter / from a Friend in the Army to an honourable person here in the city ; likewise an abstract of severall remarkable passages which happened at Glocester between the towne and the enemy in the time of the siege collected by an eye witnesse.</title>
+            <author>Friend in the Army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B31128</idno>
+            <idno type="STC">Wing T3047</idno>
+            <idno type="EEBO-CITATION">12076155</idno>
+            <idno type="OCLC">ocm 12076155</idno>
+            <idno type="VID">196883</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B31128)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196883)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 239:E67, no 13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the severall passages which have happened to our army since it advanced towards Glocester with the manner of the reliefe of the same related in a letter / from a Friend in the Army to an honourable person here in the city ; likewise an abstract of severall remarkable passages which happened at Glocester between the towne and the enemy in the time of the siege collected by an eye witnesse.</title>
+                  <author>Friend in the Army.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. Dexter for Stephen Bowtell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Sept. 14, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gloucester (England) --  History --  Siege, 1643.</term>
+               <term>Gloucester (England) --  History.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196883:1" rendition="simple:additions"/>
+            <p>A true RELATION Of the ſeverall paſſages which have happened to our Army ſince it advanced towards GLOCESTER, WITH The manner of the reliefe of the ſame, Related in a Letter from a Friend in the Army, to an Ho<g ref="char:EOLhyphen"/>nourable perſon here in the City.</p>
+            <p>
+               <hi>Likewiſe</hi> An Abſtract of ſeverall remarkable paſſages, which happened at Gloceſter between the Towne and the Enemy, in the time of the Siege, collected by an Eye-witneſſe.</p>
+            <floatingText type="license" xml:lang="eng" subtype="order_to_print">
+               <body>
+                  <p>
+                     <hi>This is Licenſed, and entred into Stationers Hall Book, according to Order.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. Dexter,</hi> for <hi>Stephen Bowtell,</hi> at the ſigne of the Bible in Popes-head-Alley. <hi>Anno</hi> 1643. <hi>Sept.</hi> 14.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:196883:2"/>
+            <pb n="1" facs="tcp:196883:2"/>
+            <head>A true Relation of the ſeverall Paſſages which have happened to our Army, ſince it ad<g ref="char:EOLhyphen"/>vanced towards GLOCESTER.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">C</seg>Olonell <hi>Harvy</hi> is for preſent ſo buſied in ſerving of you, as that he cannot ſerve you in this way of gi<g ref="char:EOLhyphen"/>ving an account of his ſervice and therefore to neg<g ref="char:EOLhyphen"/>lect the City he will not: His deſire is, that by my pen, your Honour with the Court of <hi>Militia</hi> may receive knowledge of the duty hee adventures and ſpends himſelfe in for the Kingdomes good. Thus then briefly, of the Occurrences in his march from <hi>Ockingham</hi> to <hi>Tame,</hi> which in the way befell his Cornet, who came off from the Enemy by whom he was ſet upon, his laſt Letter to you gave a ſufficient rela<g ref="char:EOLhyphen"/>tion: what Occurrences ſince that, worthy your knowledge, have come to hand, ſhall now offer themſelves nakedly to your view: Thus therefore, from <hi>Tame,</hi> the 31. of <hi>Auguſt,</hi> wee advanced to <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſſet,</hi> thorow and in a faire Champian: beyond <hi>B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſiter</hi> found the Lord Generall with his whole Army drawne up on a very faire greene, where Colonel <hi>Manwarings</hi> Brigade (conſiſting of the Ci<g ref="char:EOLhyphen"/>ty Trained Bands and Auxiliaries) firſt met the Lord Generall, at which meeting, there was ſuch expreſsions of joy; the Londo<g ref="char:EOLhyphen"/>ners by their ſhowtings and the Lord Gener ll by his Courteous behaviour, Riding with his Hat off, bowing to them, which would have raviſhed any heart almoſt to have ſeen it: And the like to Colonel Harvies Brigade. His whole Army being thus drawn up it was indeed a very powerfull ſtrength; hee may juſtly boaſt it likely enough (God ſucceeding us) to compaſſe great deſignes by. A Trumpeter of the Kings came the day before (<hi>Thurſday</hi> I
+<pb n="2" facs="tcp:196883:3"/>meane) pretending his buſineſſe to bee onely the procurement of a paſſe for ſome Lady, though many preſumed his intent might be to view the Army: when therefore the <hi>London</hi> Brigade under Colonell <hi>Manwarings</hi> command was drawne up, the Trumpeter brought blind-folded, had leave to take ſight of thoſe Companies onely, the Lord Generall aſſuring him theſe were onely the Lon<g ref="char:EOLhyphen"/>doners, added to, and no part formerly of his Army, and then ſent him out of us. He was carryed blinded into the field. This was all the newes of that day, beſides that in the evening the Horſe un<g ref="char:EOLhyphen"/>der my Colonells command received an Alarme againe neere <hi>Somerton,</hi> where they were to Quarter that night, being faced by 2000 of the Kings horſe: all the hurt we received by this was one<g ref="char:EOLhyphen"/>ly ſome houres kept from refreſhment, they not daring to adven<g ref="char:EOLhyphen"/>ture on us, and we not able to fall upon them, the hill they had being too high for us to charge upon in the night, and a ſtrange Country; eſpecially from <hi>Frithwell</hi> two miles off that <hi>Somerton,</hi> the place our foot Quartered in that night: wee marched on Sa<g ref="char:EOLhyphen"/>turday morning towards <hi>Awtlebury,</hi> and in a field neare to it found the whole Army drawne up, which (a while after we had taken our place with our horſe) were commanded off a little way from us, as a reſerve to Colonell <hi>Middleton,</hi> who had been ingaged all that day thitherto with a Party of the Kings, the ſame we believe that faced us the night before; of which when Colonell <hi>Middleton</hi> tooke a Lievtenant Colonell Priſoner, they wheeled off, refuſing to Skirmiſh with us; we therefore drew off to <hi>Hookenorton,</hi> where quartering that night, wee continued our march on the Sabbath day to <hi>Cornewell</hi> in <hi>Oxford-ſhire;</hi> and as wee were on our march the next morning towards <hi>Stowe</hi> of the Old, the enemy appeared in a bottome neare <hi>Emlard,</hi> wee being then upon Adle<g ref="char:EOLhyphen"/>ſtrap-hill, from whence Colonell Harvy fired his Demi-Culve<g ref="char:EOLhyphen"/>rin three or foure times ſucceſsively: with the firſt and laſt ſhot we conceive we did ſome execution: upon this the Enemy retreated, Colonell Middleton purſuing faced them againe with<g ref="char:EOLhyphen"/>in twice musket ſhot, drew out a forlorne hope, who at great diſad<g ref="char:EOLhyphen"/>vantage charg'd upon the enemy, and with the loſſe of one, ſhot dead, and ſome ſixe or eight taken priſoners, came off, the Ene<g ref="char:EOLhyphen"/>nemy retreating.</p>
+            <p>Two or three houres after, about two of the Clock in the after<g ref="char:EOLhyphen"/>noon, they faced the London Brigado, who were that day part of the Van Guard, under Colonell Manwaring command, but up<g ref="char:EOLhyphen"/>on
+<pb n="3" facs="tcp:196883:3"/>the diſcharge of a great Gun or two, they wheeled off, and the whole Army therefore held on their march quartering that night in the hilly open fields beyond Stow of the Old. Next morning, then after a cold lodging without any refreſhment (for the Souldiers could not the day before, in all their hard march, get a<g ref="char:EOLhyphen"/>ny conſiderable modicum of bread and beere) wee renewed our march, and held on our way, without any interruption from, or indeed newes of the Enemy; till towards evening, from the top of Preſtbury hills, two miles ſhort of Chetnam, yet within ſight of Gloceſter, we diſcovered in the bottome, a mile from us, ſeverall bodies of the Kings Horſe.</p>
+            <p>On the neareſt of them my Lord Generall beſtowed a demy-Culverin, at the noiſe if not execution thereof, that party wheeled: anon after we perceived a great ſmoak and fire near Glo<g ref="char:EOLhyphen"/>ceſter, the ſight at firſt a little troubled ſome, and my Lord Gene<g ref="char:EOLhyphen"/>rall at adventure (that the Towne might have notice of our ap<g ref="char:EOLhyphen"/>proach) fired foure of his great Guns, at which the other bodies of the Enemy retreated alſo: Our Army being then to march down, my Lord Generall himſelfe led on the forlorne hope, to clear the way for his Army to paſſe downe the hill, and by going downe ſome ſteep place, ſprained his legge: this done, the Army marched for Quarter to ſeverall Villages adjacent, Colonell Harveyes foot, the London Redcoats, and Kentiſh Regiment, drawing off towards Southam, a little Village not farre from the foot of the hill, ſide<g ref="char:EOLhyphen"/>wards, which when we were within two or three bow-ſhoots of, my Colonell himſelfe, with Colonel Sir William Springate, Ma<g ref="char:EOLhyphen"/>jor Shepheard, and his owne Cornet, with my ſelfe and ſome few others, out-marcht the foot, the rather indeed that my Colonell might (according to his wonted vigilancy) view the Avenues before the darknes of the night ſhould overtake him; which while he, with Major Shepheard, were about, Major Bourne and Captain Buller with their Troops (miſtaking us for Cavaliers) diſmounted at our Quarter, &amp; by a Piſtol ſhot (before we could make them un<g ref="char:EOLhyphen"/>derſtand who we were) wounded ſorely, we fear mortally, Cornet Fleſher, and we ſtrongly preſume had Piſtolled more of us had not my Colonell ſeaſonably returning, made knowne himſelfe, and ſo reſcued us.</p>
+            <p>This is all we have to acquaint you with, ſave that the ſiege be<g ref="char:EOLhyphen"/>ing raiſed, &amp; the Kings forces fled toward Briſtol, we are with the
+<pb n="4" facs="tcp:196883:4"/>whole Army about Chetnam, ready to ſerve our Countrey as God ſhall direct us.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Septemb.</hi> 6. 1643.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <head>POSTSCRIPT.</head>
+               <p>
+                  <hi>THis night Colonell</hi> Manwarings <hi>Brigado could not march downe the hill, and therefore was forced to quarter that night upon the hill, the next morning they marched down the hill into the Vale, his Excellencie quartered at</hi> Chetnam, <hi>and the reſt of the Armie in the adjacent Pariſhes. The enemie having raiſed his ſeige on</hi> Tueſday <hi>in the afternoon, and gone the way that leads to</hi> Briſtol, <hi>wee reſted the</hi> Thurſday: <hi>the next day being</hi> Fryday, <hi>his Excellency marched into</hi> Glouceſter, <hi>with ſo many of his Army as it could containe, and the reſt of the Armie quartered in the adjacent Pariſhes.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="summary">
+            <head>An Abſtract of ſeverall remarkable paſſages which hap<g ref="char:EOLhyphen"/>pened at <hi>Glouceſter,</hi> during the ſiege, collected by an eye<g ref="char:EOLhyphen"/>witneſſe thereof.</head>
+            <p>THe cloſe ſiege began the tenth of Auguſt 1643. and was raiſed the fifth of September, during which time there were between three and foure hundred great Shot, and above 20. Granado's, and as many fiery Bullets; which Granado's and fiery Bullets did no execution, ſave onely that one woman was killed, and about three others with the great Shot; neither were there any maimed, but ſome few lightly hurt. Moſt that were killed with their Musket-ſhot, was by looking over the Wall at Friars Orchard, to ſee their Workes. The whole number that was killed on our part in the City we cannot gueſſe to be above fourty: the loſſe on their parts we cannot exactly ſet downe,
+<note place="margin">One that dwelt in the Su<g ref="char:EOLhyphen"/>burbs ſaw the Laſt, and made re<g ref="char:EOLhyphen"/>port.</note> but by their owne relation there was a Liſt of 900 and odde of ſicke and maimed Souldiers, beſide thoſe that were killed, which (by the re<g ref="char:EOLhyphen"/>port of the Countrey, that ſaw them carried away) were many, ſome thouſands. Many likewiſe ran away, and more would if the Horſe had not kept them in. Theſe relations are within compaſſe.</p>
+            <pb n="5" facs="tcp:196883:4"/>
+            <p>Reliefe was not heard of untill Auguſt 29. that was on<g ref="char:EOLhyphen"/>ly this: A Meſſenger of ours ſaw a Letter at Warwicke, which was written from Sir <hi>Samuel Luke</hi> to the Gover<g ref="char:EOLhyphen"/>nour of Warwick-caſtle, dated at Twvverd, Auguſt 22. to this effect, That he ſhould ſend two Meſſengers to <hi>Glo<g ref="char:EOLhyphen"/>ceſter,</hi> to encourage us to ſtand out, and that we ſhould have reliefe very ſpeedily; but we perceived none untill we ſaw their Carriages drawn from the Leaguer then firing their Huts they marched off with their Colours: thereupon our Souldiers perceiving the enemies Trenches to bee cleare, they got over the Towne wall and ſpoiled their Gallery, and ſet fire on ſome of the Cannon baskets.</p>
+            <div type="part">
+               <head>A meſſage ſhot into the City of <hi>Glouceſter</hi> upon an Arrow.</head>
+               <p>
+                  <hi>Theſe are to let you underſtand your God</hi> Wal<g ref="char:EOLhyphen"/>ler <hi>hath forſaken you, &amp; hath retired himſelf to the Tower of</hi> London: Eſſex <hi>is beaten like a Dog: yeeld to the Kings mercy in time, otherwiſe if we enter perforce, no Quarter for ſuch Tray<g ref="char:EOLhyphen"/>terly Rogues.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The</hi> ANSWER.</head>
+               <lg>
+                  <l>VVAller is not our God, in that you lie,</l>
+                  <l>Our God ſtill lives from all Eternity.</l>
+                  <l>Though <hi>Eſſex</hi> beaten be as you doe ſay,</l>
+                  <l>
+                     <hi>Romes</hi> Yoke we are reſolv'd not to obey.</l>
+                  <l>But for our Cabbages that you have eaten,</l>
+                  <l>Be ſure ere long you muſt be ſoundly beaten.</l>
+                  <l>Quarter we aske you none if we fall downe,</l>
+                  <l>King <hi>Charles</hi> ſhall loſe true Subjects with the Towne.</l>
+               </lg>
+               <closer>
+                  <signed>So ſaith your beſt Friend if you make timely uſe of him.</signed>
+               </closer>
+            </div>
+            <div type="epigram">
+               <pb n="6" facs="tcp:196883:5"/>
+               <head>An Epigram upon two Lawyers, <hi>Bell</hi> and <hi>Hill,</hi> who were ſent into <hi>Gloceſter</hi> to perſwade them to yeeld.</head>
+               <lg>
+                  <l>
+                     <hi>TWo pettifogging Lawyers came of late,</hi>
+                  </l>
+                  <l>
+                     <hi>In love, to tell us of our preſent ſtate,</hi>
+                  </l>
+                  <l>
+                     <hi>And ſeem'd to be affected with our ſtreights,</hi>
+                  </l>
+                  <l>
+                     <hi>Thinking to worke us out with their deceits:</hi>
+                  </l>
+                  <l>
+                     <hi>One ſpeakes as if he had been ſoundly feed</hi>
+                  </l>
+                  <l>
+                     <hi>By the Popes agents; and tells us in our need</hi>
+                  </l>
+                  <l>
+                     <hi>No hope of helpe; all paſsages were block'd,</hi>
+                  </l>
+                  <l>
+                     <hi>We muſt deliver, or be ſoundly knock'd.</hi>
+                  </l>
+                  <l>
+                     <hi>The other ſayes, Armies of ſtrength appeare,</hi>
+                  </l>
+                  <l>
+                     <hi>Yet for his life he could not tell us where:</hi>
+                  </l>
+                  <l>
+                     <hi>Storme us they would, and that in ſeverall places,</hi>
+                  </l>
+                  <l>
+                     <hi>Although as yet they dare not ſhew their faces.</hi>
+                  </l>
+                  <l>
+                     <hi>If ſtorming would not doe, then famine ſhall,</hi>
+                  </l>
+                  <l>
+                     <hi>We having Beefe, they eating Cabidge all.</hi>
+                  </l>
+                  <l>
+                     <hi>If none of theſe will perfect their deſere,</hi>
+                  </l>
+                  <l>
+                     <hi>Then without queſtion they'll get all by fire,</hi>
+                  </l>
+                  <l>
+                     <hi>Being ſure to doe it by ſome grand Granado,</hi>
+                  </l>
+                  <l>
+                     <hi>As erſt the Spaniard did with his Armado.</hi>
+                  </l>
+                  <l>
+                     <hi>The verdict paſt, amongſt the curſed crew</hi>
+                  </l>
+                  <l>
+                     <hi>Men, women, children, they muſt taſte of rew.</hi>
+                  </l>
+                  <l>
+                     <hi>If we refuſe to give them enterance,</hi>
+                  </l>
+                  <l>
+                     <hi>Then all alike after their pipe muſt dance.</hi>
+                  </l>
+                  <l>
+                     <hi>This was the Meſſage: Th' anſwere thus in ſhort:</hi>
+                  </l>
+                  <l>
+                     <hi>Neighbours, as for your love, we thanke you for't,</hi>
+                  </l>
+                  <l>
+                     <hi>But for your bug-beare threats ſo huge and big,</hi>
+                  </l>
+                  <l>
+                     <hi>If ſeven-ſcore Cannons can but kill one Pig,</hi>
+                  </l>
+                  <l>
+                     <hi>We then have cauſe to feare nothing but ſin</hi>
+                  </l>
+                  <l>
+                     <hi>Can make a breach to let ſuch Rebels in:</hi>
+                  </l>
+                  <l>
+                     <hi>We truſt in God, whoſe power, can make you quaile,</hi>
+                  </l>
+                  <l>
+                     <hi>Although you make ſo ſure for to prevaile.</hi>
+                  </l>
+                  <l>
+                     <hi>Come when you will, and enter where you can,</hi>
+                  </l>
+                  <l>
+                     <hi>Be ſure wee'll fight it out to the laſt man,</hi>
+                  </l>
+                  <l>
+                     <hi>And if for to provaile it be your fate,</hi>
+                  </l>
+                  <l>
+                     <hi>You'll finde we ſold our lives at a deare rate.</hi>
+                  </l>
+               </lg>
+               <sp>
+                  <speaker>Bell.</speaker>
+                  <l>
+                     <hi>All know fall well</hi>
+                  </l>
+                  <l>
+                     <hi>That every</hi> Bell</l>
+                  <l>
+                     <hi>Is uſeleſſe till't be hanged,</hi>
+                  </l>
+                  <l>
+                     <hi>And none, I hope,</hi>
+                  </l>
+                  <l>
+                     <hi>Denies a rope</hi>
+                  </l>
+                  <l>
+                     <hi>To have his ſides well banged.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Hill.</speaker>
+                  <l>
+                     <hi>This</hi> Hill <hi>was ſeen</hi>
+                  </l>
+                  <l>
+                     <hi>In ſinner green</hi>
+                  </l>
+                  <l>
+                     <hi>Freſh, faire, and flouriſhing,</hi>
+                  </l>
+                  <l>
+                     <hi>Now, Proteus-like,</hi>
+                  </l>
+                  <l>
+                     <hi>'Tis altered quite,</hi>
+                  </l>
+                  <l>
+                     <hi>'Tis fading, periſhing.</hi>
+                  </l>
+               </sp>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
